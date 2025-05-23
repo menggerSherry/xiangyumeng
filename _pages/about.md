@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hey! I'm a Ph.D. student in the College of Computer Science and Technology at China University of Petroleum (East China). My research focuses on high-performance computing systems, ML systems, and bio-inspired AI algorithms.
+Hi! I'm a Ph.D. student in the College of Computer Science and Technology at China University of Petroleum (East China). My research focuses on high-performance computing systems, machine learning systems, and bio-inspired AI algorithms.
 
 
 A data-driven personal website

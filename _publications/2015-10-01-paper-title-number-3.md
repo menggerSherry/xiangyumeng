@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This work proposes SAVAE-Cox, a novel deep learning framework for survival analysis on high-dimensional cancer transcriptome data. By incorporating an attention mechanism and adversarial transfer learning, the model effectively alleviates overfitting under limited sample conditions and improves prognostic accuracy. Extensive experiments on 16 TCGA RNA-seq cancer datasets demonstrate that SAVAE-Cox consistently outperforms classical and deep learning–based Cox models in terms of concordance index. Moreover, feature analysis results indicate that the proposed model is capable of identifying cancer-related genes and underlying biological functions.'
 date: 2022-08-01
-venue: 'Journal 1'
+venue: 'Cells'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Meng Xiangyu, Wang Xun, Zhang Xudong, Zhang Chaogang, Zhang Zhiyuan, Zhang Kuijie, Wang Shudong. A novel attention-mechanism based cox survival model by exploiting pan-cancer empirical genomic information[J]. Cells, 2022, 11(9): 1421.'

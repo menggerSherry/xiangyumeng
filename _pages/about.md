@@ -16,6 +16,10 @@ Education
 
 Work experience
 ======
+* 2025-new: Joint Ph.D Student in Computer Science
+  * A*STAR Institute of High Performance Computing
+  * Duties include: High Performance Computing research
+  * Supervisor: Tao Luo
 * 2022-2025: Joint Ph.D Student in Computer Science
   * State Key Lab of Processors, Chinese Academy of Sciences
   * Duties include: System design of the high-performance deep learning molecular dynamics algorithm

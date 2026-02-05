@@ -10,14 +10,14 @@ Hi! I'm a Ph.D. student in the College of Computer Science and Technology at Chi
 
 Education
 ======
-* Ph.D Student in Advanced Scientific and Engineering Computing, China University of Petroleum(East China), 2022 
-* M.S. in Computer Science and Technology, China University of Petroleum(East China), 2020
-* B.S. in Computer Science and Technology, Inner Mongolia Agricultural University, 2016
+* Ph.D Student in Advanced Scientific and Engineering Computing, China University of Petroleum(East China), 2022-now
+* M.S. in Computer Science and Technology, China University of Petroleum(East China), 2020-2022
+
 
 Work experience
 ======
 * 2022-2025: Joint Ph.D Student in Computer Science
-  * Institute of Computing Technology
+  * State Key Lab of Processors, Chinese Academy of Sciences
   * Duties include: System design of the high-performance deep learning molecular dynamics algorithm
   * Supervisor: Weile Jia
 

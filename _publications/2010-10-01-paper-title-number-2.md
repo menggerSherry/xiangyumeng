@@ -8,7 +8,7 @@ date: 2022-10-01
 venue: 'IEEE Journal of Biomedical and Health Informatics'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Wang Xun, Zhang Xudong, Wang Gan, Zhang Ying, Shi Xin, Dai Huanhuan, Liu Min, Wang Zixuan*, Meng Xiangyu* TransFusionNet: Semantic and spatial features fusion framework for liver tumor and vessel segmentation under JetsonTX2[J]. IEEE Journal of Biomedical and Health Informatics, 2022, 27(3): 1173-1184.'
+citation: 'Wang Xun, Zhang Xudong, Wang Gan, Zhang Ying, Shi Xin, Dai Huanhuan, Liu Min, Wang Zixuan*, <strong>Meng Xiangyu*</strong> TransFusionNet: Semantic and spatial features fusion framework for liver tumor and vessel segmentation under JetsonTX2[J]. IEEE Journal of Biomedical and Health Informatics, 2022, 27(3): 1173-1184.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

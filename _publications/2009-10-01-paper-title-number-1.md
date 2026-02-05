@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'We propose a weakly supervised generative adversarial network (GAN)–based method for virtual histological staining using autofluorescence images of unstained ovarian tissue sections. The proposed approach effectively improves image synthesis quality under limited training data, achieving high diagnostic accuracy as validated by both clinical experts and quantitative image quality metrics.'
-date: 2021
+date: 2010-10-01
 venue: 'Computational and Mathematical Methods in Medicine'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'

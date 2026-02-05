@@ -1,7 +1,7 @@
 ---
 title: "29-Billion Atoms Molecular Dynamics Simulation with Ab Initio Accuracy on 35 Million Cores of New Sunway Supercomputer"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper presents an optimized DeePMD-kit tailored for the new Sunway supercomputer, enabling ab initio–level molecular dynamics (MD) simulations of over ten billion atoms. Key contributions include a large-scale parallelization scheme, specialized operator optimizations, and a novel mixed-precision method to exploit the architecture’s low-precision capabilities. The optimized package achieves up to 67.6× speedup for water systems and can simulate 29 billion atoms on 35 million cores with a peak performance of 57.1 PFLOPs, surpassing previous state-of-the-art results and enabling large-scale simulations for realistic materials and physical systems.'
 date: 2025-02-17

@@ -10,23 +10,15 @@ Hi! I'm a Ph.D. student in the College of Computer Science and Technology at Chi
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Student in Advanced Scientific and Engineering Computing, China University of Petroleum(East China), 2022 
+* M.S. in Computer Science and Technology, China University of Petroleum(East China), 2020
+* B.S. in Computer Science and Technology, Inner Mongolia Agricultural University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-2025: Joint Ph.D Student in Computer Science
+  * Institute of Computing Technology
+  * Duties include: System design of the high-performance deep learning molecular dynamics algorithm
+  * Supervisor: Weile Jia
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git

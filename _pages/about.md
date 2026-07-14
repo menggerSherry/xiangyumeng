@@ -8,13 +8,13 @@ redirect_from:
 ---
 Hi! I'm a Ph.D. student in the College of Computer Science and Technology at China University of Petroleum (East China) supervised by [Xun Wang](https://computer.upc.edu.cn/_s104/_t1903/2023/0727/c20895a409285/page.psp) and [Tao Song](https://computer.upc.edu.cn/_s104/_t1903/2023/0727/c20895a409285/page.psp). My research focuses on high-performance computing systems, machine learning systems, and bio-inspired AI algorithms.
 
-Education
+🎓 Education
 ======
 * Ph.D Student in Advanced Scientific and Engineering Computing, China University of Petroleum(East China), 2022-now
 * M.S. in Computer Science and Technology, China University of Petroleum(East China), 2020-2022
 
 
-Work experience
+💼 Work experience
 ======
 * 2025-new: Joint Ph.D Student in Computer Science
   * A*STAR Institute of High Performance Computing

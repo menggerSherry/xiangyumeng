@@ -28,4 +28,4 @@ Hi! I'm a Ph.D. student in the College of Computer Science and Technology at Chi
 
 🎉 News
 ======
-🔥 My new work, entitled "Scalable High-Fidelity Macromolecular Docking for GPU-accelerated Supercomputers", has been successfully accepted to **SC26**
+🔥 **July 2026:** My new work, entitled "Scalable High-Fidelity Macromolecular Docking for GPU-accelerated Supercomputers", has been successfully accepted to **SC26**
